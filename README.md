@@ -1,9 +1,9 @@
-## Restaurante-projeto
+# Restaurante-projeto
 
 O projeto consiste em um sistema onde será feito um pedido no caixa, e automaticamente a comanda é gerada na cozinha.
 Também terá um banco de dados para armazenar os pratos, valore e outras informações necessárias.
 
-### Linguagens e Tecnologias Utilizadas
+# Linguagens e Tecnologias Utilizadas
 
 <img 
     align="left" 
