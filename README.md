@@ -65,5 +65,5 @@ Também terá um banco de dados para armazenar os pratos, valore e outras inform
 # Autores
 
 <a href="https://github.com/JoaoGabeee/restaurante-projeto/graphs/contributors">
-    <img src="https://contributors-img.web.app/image?repo=HeberBarra/heber-modelo&max=500" alt="Lista de contribuidores" width="40%"
+    <img src="https://contributors-img.web.app/image?repo=JoaoGabeee/restaurante-projeto&max=500" alt="Lista de contribuidores" width="40%"
 </a>
