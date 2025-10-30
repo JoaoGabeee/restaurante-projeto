@@ -61,7 +61,7 @@ Também terá um banco de dados para armazenar os pratos, valore e outras inform
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
-
+<br>
 # Autores
 
 <a href="https://github.com/JoaoGabeee/restaurante-projeto/graphs/contributors">
